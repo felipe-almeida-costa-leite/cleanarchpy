@@ -15,7 +15,7 @@ diz onde cada coisa deve ficar e como essas relaçoes modeladas no _"DDD"_ devem
 mistura
 dos dois neste projeto exemplo.
 
-### Estrutura e responsabilidades
+## Estrutura e responsabilidades
 
 #### Domain
 
